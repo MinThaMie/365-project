@@ -1,7 +1,9 @@
 {{page-title "AnneGreeth"}}
-
-{{!-- The following component displays Ember's default welcome message. --}}
-<WelcomePage />
-{{!-- Feel free to remove this! --}}
-
-{{outlet}}
+<h1>a 365 day project with {{days-left}} days left</h1>
+<div class="photo-containter">
+{{#each this.model.photos as |photo| }}
+  <div class="photo">
+    <ResponsiveImage @src={{photo.name}}  alt={{photo.alt}} title={{photo.title}}/>
+  </div>
+{{/each}}
+</div>

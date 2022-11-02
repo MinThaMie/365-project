@@ -4,7 +4,14 @@ const EmberApp = require('ember-cli/lib/broccoli/ember-app');
 
 module.exports = function (defaults) {
   let app = new EmberApp(defaults, {
-    // Add options here
+    'responsive-image': {
+      images: [
+        {
+          include: 'images/*',
+          widths: [2048, 1536, 1080, 750, 640],
+        },
+      ],
+    },
   });
 
   // Use `app.import` to add additional libraries to the generated
