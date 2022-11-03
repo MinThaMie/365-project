@@ -224,6 +224,11 @@ export default class ApplicationRoute extends Route {
           title: 'Penguin',
           alt: 'Watercolor A6 painting of a penguin on cappucino paper',
         },
+        {
+          name: 'images/45.jpeg',
+          title: 'Sea lion',
+          alt: 'Watercolor A6 painting of a sea lion on a rock',
+        },
       ],
     };
   }
