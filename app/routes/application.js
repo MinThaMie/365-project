@@ -229,6 +229,21 @@ export default class ApplicationRoute extends Route {
           title: 'Sea lion',
           alt: 'Watercolor A6 painting of a sea lion on a rock',
         },
+        {
+          name: 'images/46.jpeg',
+          title: 'Northern cardinal pair',
+          alt: 'Watercolor A6 painting of a Northern cardinal pair',
+        },
+        {
+          name: 'images/47.jpeg',
+          title: 'Golden Retriever',
+          alt: 'A5 gouache painting of a golden retriever on demin paper',
+        },
+        {
+          name: 'images/48.jpeg',
+          title: 'Rooster',
+          alt: 'A5 gouache painting of a rooster on demin paper',
+        },
       ],
     };
   }
