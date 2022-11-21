@@ -244,6 +244,81 @@ export default class ApplicationRoute extends Route {
           title: 'Rooster',
           alt: 'A5 gouache painting of a rooster on demin paper',
         },
+        {
+          name: 'images/49.jpeg',
+          title: 'Rhino',
+          alt: 'A6 pencil rhino',
+        },
+        {
+          name: 'images/50.jpeg',
+          title: 'French Bulldog',
+          alt: 'A5 gouache painting of a French Bulldog on demin paper',
+        },
+        {
+          name: 'images/51.jpeg',
+          title: 'Tit',
+          alt: 'A6 watercolor painting of a tit',
+        },
+        {
+          name: 'images/52.jpeg',
+          title: 'Earth worm',
+          alt: 'Alcohol marker drawing of an earth worm',
+        },
+        {
+          name: 'images/53.jpeg',
+          title: 'Hermit crab',
+          alt: 'A6 watercolor painting of a hermit crab',
+        },
+        {
+          name: 'images/54.jpeg',
+          title: 'Rhea',
+          alt: 'A6 watercolor painting of a rhea',
+        },
+        {
+          name: 'images/55.jpeg',
+          title: 'Honey bee',
+          alt: 'A6 watercolor painting of a bee on a honey pot',
+        },
+        {
+          name: 'images/56.jpeg',
+          title: 'Black cat',
+          alt: 'A5 gouache painting of a black cat on demin paper',
+        },
+        {
+          name: 'images/57.jpeg',
+          title: 'Toad',
+          alt: 'A6 watercolor wax pastel drawing of a toad',
+        },
+        {
+          name: 'images/58.jpeg',
+          title: 'Racoon',
+          alt: 'A6 watercolor painting of a toad',
+        },
+        {
+          name: 'images/59.jpeg',
+          title: 'Blue tit',
+          alt: 'A6 drawing of a blue tit with pencil on black paper',
+        },
+        {
+          name: 'images/60.jpeg',
+          title: 'Ladybug',
+          alt: 'A6 watercolor wax pastel drawing of a ladybug',
+        },
+        {
+          name: 'images/61.jpeg',
+          title: 'Borzoi',
+          alt: 'A6 watercolor painting of a borzoi',
+        },
+        {
+          name: 'images/62.jpeg',
+          title: 'Mochi',
+          alt: 'A6 pencil drawing of Mochi, the cat from Big Hero 6',
+        },
+        {
+          name: 'images/63.jpeg',
+          title: 'Rainbow Unicorn',
+          alt: 'A6 pencil drawing of Rainbow Unicorn from Inside Out',
+        },
       ],
     };
   }
