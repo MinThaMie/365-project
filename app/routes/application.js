@@ -319,6 +319,211 @@ export default class ApplicationRoute extends Route {
           title: 'Rainbow Unicorn',
           alt: 'A6 pencil drawing of Rainbow Unicorn from Inside Out',
         },
+        {
+          name: 'images/64.jpeg',
+          title: 'Meerkat',
+          alt: 'A6 watercolor meerkat',
+        },
+        {
+          name: 'images/65.jpeg',
+          title: 'Cheetah',
+          alt: 'A6 watercolor of a cheetah',
+        },
+        {
+          name: 'images/66.jpeg',
+          title: 'Sketches of birds',
+          alt: 'Sketches of birds seen at a bird watching hut',
+        },
+        {
+          name: 'images/67.jpeg',
+          title: 'Crested tit',
+          alt: 'Gouache painting of a Crested tit',
+        },
+        {
+          name: 'images/68.jpeg',
+          title: 'Woodpecker',
+          alt: 'Goauche painting of a Woodpecker',
+        },
+        {
+          name: 'images/69.jpeg',
+          title: 'Eurasian siskin',
+          alt: 'Gouache painting of a Eurasian siskin',
+        },
+        {
+          name: 'images/70.jpeg',
+          title: 'Kangaroo',
+          alt: 'Alcohol marker drawing of a kangaroo',
+        },
+        {
+          name: 'images/71.jpeg',
+          title: 'Caterpillar',
+          alt: 'Alcohol marker drawing of a Caterpillar',
+        },
+        {
+          name: 'images/72.jpeg',
+          title: 'Snail',
+          alt: 'A6 watercolor painting of a snail',
+        },
+        {
+          name: 'images/73.jpeg',
+          title: 'Gloria',
+          alt: 'A6 pencil drawing of Gloria from Madagascar',
+        },
+        {
+          name: 'images/74.jpeg',
+          title: 'Red fox',
+          alt: 'A6 pencil drawing of a red fox',
+        },
+        {
+          name: 'images/75.jpeg',
+          title: 'Walrus',
+          alt: 'A6 water color crayon painting of a walrus',
+        },
+        {
+          name: 'images/76.jpeg',
+          title: 'Izzy with bow tie',
+          alt: 'A6 crayon drawing of Izzy with a bow tie',
+        },
+        {
+          name: 'images/77.jpeg',
+          title: 'Axylotl',
+          alt: 'A6 fineliner drawing of a axylotl',
+        },
+        {
+          name: 'images/78.jpeg',
+          title: 'Cuttlefish',
+          alt: 'A5 gouache painting of a cuttlefish',
+        },
+        {
+          name: 'images/79.jpeg',
+          title: 'Ibex',
+          alt: 'Digital drawing of an inbex',
+        },
+        {
+          name: 'images/80.jpeg',
+          title: 'Moth',
+          alt: 'Digital drawing of a moth',
+        },
+        {
+          name: 'images/81.jpeg',
+          title: 'Rabbit',
+          alt: 'Digital drawing of a rabbit',
+        },
+        {
+          name: 'images/82.jpeg',
+          title: 'Elephant',
+          alt: 'Tiny pencil drawing of an elephant',
+        },
+        {
+          name: 'images/83.jpeg',
+          title: 'Deer',
+          alt: 'Tiny pencil drawing of a deer',
+        },
+        {
+          name: 'images/84.jpeg',
+          title: 'Tarantula',
+          alt: 'A6 watercolor painting of a tarantula',
+        },
+        {
+          name: 'images/85.jpeg',
+          title: 'Sea turtle',
+          alt: 'A5 gouache painting of a sea turtle',
+        },
+        {
+          name: 'images/86.jpeg',
+          title: 'Flower with Insects',
+          alt: 'Tiny drawing of insects on a flower',
+        },
+        {
+          name: 'images/87.jpeg',
+          title: 'Flamengo',
+          alt: 'Tiny drawing of a flamengo',
+        },
+        {
+          name: 'images/88.jpeg',
+          title: 'Koala',
+          alt: 'Tiny drawing of a koala',
+        },
+        {
+          name: 'images/89.jpeg',
+          title: 'Christmas card with European Robin',
+          alt: 'A6 gouache christmas card with robin',
+        },
+        {
+          name: 'images/90.jpeg',
+          title: 'Christmas card with black boomer',
+          alt: 'A6 gouache christmas card with a black boomer',
+        },
+        {
+          name: 'images/91.jpeg',
+          title: 'Christmas card with guinea pig',
+          alt: 'A6 gouache christmas card with guinea pig',
+        },
+        {
+          name: 'images/92.jpeg',
+          title: 'Gibbon',
+          alt: 'Tiny pencil drawing of a gibbon',
+        },
+        {
+          name: 'images/93.jpeg',
+          title: 'Bat',
+          alt: 'Tiny pencil drawing of a bat',
+        },
+        {
+          name: 'images/94.jpeg',
+          title: 'Common chaffinch',
+          alt: 'A6 watercolor painting of a common chaffinch',
+        },
+        {
+          name: 'images/95.jpeg',
+          title: 'Heron',
+          alt: 'A5 watercolor painting of a heron',
+        },
+        {
+          name: 'images/96.jpeg',
+          title: 'Polar bear',
+          alt: 'Tiny pencil drawing of a polar bear',
+        },
+        {
+          name: 'images/97.jpeg',
+          title: 'Christmas card with dogs',
+          alt: 'A6 Christmas card (goauche) with a whippet and a border collie',
+        },
+        {
+          name: 'images/98.jpeg',
+          title: 'Rosella',
+          alt: 'A6 gouache painting of a Rosella',
+        },
+        {
+          name: 'images/99.jpeg',
+          title: 'Chipmunk',
+          alt: 'Tiny pencil drawing of a chipmunk in hand',
+        },
+        {
+          name: 'images/100.jpeg',
+          title: 'Blue parrot',
+          alt: 'Alcohol marker drawing of a blue parrot',
+        },
+        {
+          name: 'images/101.jpeg',
+          title: 'Baby pygme marmoset',
+          alt: 'Pencil drawing on black paper of a baby pygme marmoset on a hand',
+        },
+        {
+          name: 'images/102.jpeg',
+          title: 'Crocodile',
+          alt: 'A6 watercolor painting of a crocodile',
+        },
+        {
+          name: 'images/103.jpeg',
+          title: 'Sea otter',
+          alt: 'Tiny pencil drawing of a sea otter',
+        },
+        {
+          name: 'images/104.jpeg',
+          title: 'Garden dormouse',
+          alt: 'A6 watercolor painting of a garden dormouse',
+        },
       ],
     };
   }
